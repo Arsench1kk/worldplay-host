@@ -4,6 +4,11 @@
 
 WorldPlay Host is an AI-powered party host for live friends. A group can play around one shared device, invite remote friends with a room code, or add AI players when seats are missing. The group chooses player count and vibe, spins the globe, lands on a culture pack, gets an AI Host intro, then starts a recommended game with live or fallback host guidance.
 
+## Links
+
+- Live demo: https://worldplay-host.vercel.app
+- GitHub: https://github.com/Arsench1kk/worldplay-host
+
 ## Product Modes
 
 1. **Local party mode** — *primary*. One device on the table, friends together in the same room. Pass-and-play.
@@ -25,9 +30,9 @@ Other catalog games may appear as recommendations and currently use placeholder 
 
 These are next in line because judges recognize them instantly:
 
-- **Shapka (The Hat)** — word-guessing party classic.
 - **Truth or Dare** — universal party loop.
 - **Taboo / Don't Say It** — generated forbidden-word cards with AI referee potential.
+- **The Hat polish** — stronger AI word generation and remote room sync.
 
 ## AI Usage
 
